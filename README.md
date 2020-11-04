@@ -1,2 +1,4 @@
-# MS-Universo-JF
-Repositório da aula de Manutenção de Software da Instituição Universidade Salgado de Oliveira
+# Manutenção de Software  {style=text-align:center}
+
+## PROF. BRUNO ZONOVELLI
+### 2020.2 - José Fernando de Souza Conceição
